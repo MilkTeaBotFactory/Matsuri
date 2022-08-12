@@ -1,0 +1,22 @@
+{
+  "name": "matsuri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "bot": "clear;nodem bot.js",
+    "bots": "clear;node .;node bot.js",
+    "test": "clear;nodemon bot.js"
+  },
+  "keywords": [],
+  "author": "音羽みのり <otohaminori@users.noreply.github.com> (http://projectcsj.github.io/)",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^14.2.0",
+    "dotenv": "^16.0.1",
+    "node-color-log": "^9.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  }
+}
