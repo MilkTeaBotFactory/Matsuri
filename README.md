@@ -1,4 +1,5 @@
-# MilkTea
+# NatsuiroMatsuri
+##### A bot for **[🏮 祭單推祭絲總部🏮](https://discord.gg/matsurisu)**
 
 ---
 
