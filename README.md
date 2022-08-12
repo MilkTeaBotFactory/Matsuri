@@ -4,9 +4,42 @@
 ---
 
 ### Hi there 👋
+This bot is made by 音羽みのり(as know as 幽霊Ｓ) w/𝒁𝒉𝒆𝒏𝒚𝒖𝒂𝒏, discord.js(<a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/badge/discord.js-v14.2.0-informational" alt="discord js version"></a>)
+
+Now version is ![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/MilkTeaBotFactory/NatsuiroMatsuri?include_prereleases)
+
+Events status:
+
+|          Feature          |                Done or Not                |
+|:-------------------------:|:-----------------------------------------:|
+| Interaction/SlashCommands | <input type="checkbox" disabled checked/> |
+|    Interaction/Buttons    |                  &mdash;                  |
+|  Interaction/SelectMenus  |                  &mdash;                  |
+|    Interaction/Modals     |     <input type="checkbox" disabled>      |
+| Interaction/ContextMenus  |                  &mdash;                  |
+|       MessageCreate       |     <input type="checkbox" disabled>      |
+|           Ready           | <input type="checkbox" disabled checked/> |
+
+Commands status:
+
+|    Feature     |                Done or Not                |
+|:--------------:|:-----------------------------------------:|
+| Admin/Shutdown |     <input type="checkbox" disabled/>     |
+|   Core/Help    |     <input type="checkbox" disabled/>     |
+|   Core/Ping    | <input type="checkbox" disabled checked/> |
+|     Utils      |     <input type="checkbox" disabled/>     |
+
+Message events status:
+
+| Event name |           Done or Not            |
+|:----------:|:--------------------------------:|
+|     早安     | <input type="checkbox" disabled> |
+|     午安     | <input type="checkbox" disabled> |
+|     晚安     | <input type="checkbox" disabled> |
+|    起來嗨     |                🤔                |
 
 <!--
-**MilkTeaBotFactory/Matsuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MilkTeaBotFactory/NatsuiroMatsuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
