@@ -10,33 +10,33 @@ Now version is ![GitHub tag (latest SemVer pre-release)](https://img.shields.io/
 
 Events status:
 
-|          Feature          |                Done or Not                |
-|:-------------------------:|:-----------------------------------------:|
-| Interaction/SlashCommands | <input type="checkbox" disabled checked/> |
-|    Interaction/Buttons    |                  &mdash;                  |
-|  Interaction/SelectMenus  |                  &mdash;                  |
-|    Interaction/Modals     |     <input type="checkbox" disabled>      |
-| Interaction/ContextMenus  |                  &mdash;                  |
-|       MessageCreate       |     <input type="checkbox" disabled>      |
-|           Ready           | <input type="checkbox" disabled checked/> |
+|          Feature          | Done or Not |
+|:-------------------------:|:-----------:|
+| Interaction/SlashCommands |     [x]     |
+|    Interaction/Buttons    |   &mdash;   |
+|  Interaction/SelectMenus  |   &mdash;   |
+|    Interaction/Modals     |     [ ]     |
+| Interaction/ContextMenus  |   &mdash;   |
+|       MessageCreate       |     [ ]     |
+|           Ready           |     [x]     |
 
 Commands status:
 
-|    Feature     |                Done or Not                |
-|:--------------:|:-----------------------------------------:|
-| Admin/Shutdown |     <input type="checkbox" disabled/>     |
-|   Core/Help    |     <input type="checkbox" disabled/>     |
-|   Core/Ping    | <input type="checkbox" disabled checked/> |
-|     Utils      |     <input type="checkbox" disabled/>     |
+|    Feature     |            Done or Not            |
+|:--------------:|:---------------------------------:|
+| Admin/Shutdown | <input type="checkbox" disabled/> |
+|   Core/Help    | <input type="checkbox" disabled/> |
+|   Core/Ping    |                [x]                |
+|     Utils      | <input type="checkbox" disabled/> |
 
 Message events status:
 
-| Event name |           Done or Not            |
-|:----------:|:--------------------------------:|
-|     早安     | <input type="checkbox" disabled> |
-|     午安     | <input type="checkbox" disabled> |
-|     晚安     | <input type="checkbox" disabled> |
-|    起來嗨     |                🤔                |
+| Event name | Done or Not |
+|:----------:|:-----------:|
+|     早安     |     [ ]     |
+|     午安     |     [ ]     |
+|     晚安     |     [ ]     |
+|    起來嗨     |     🤔      |
 
 <!--
 **MilkTeaBotFactory/NatsuiroMatsuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
